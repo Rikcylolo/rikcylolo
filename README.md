@@ -1,4 +1,15 @@
-### Hi there 👋
+# Hi 👋
+
+Perkenalkan nama saya **Rikcy Lolo Padang**.\
+Saya seorang **Mahasiswa** jurusan **Teknik Informatika** di [Universitas Mikroskil](https://mikroskil.ac.id/).\
+
+### Github Statistic
+<p align="left">
+<a href="https://github.com/rikcylolo">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rikcylolo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rikcylolo&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 <!--
 **Rikcylolo/rikcylolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
