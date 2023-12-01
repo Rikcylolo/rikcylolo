@@ -1,4 +1,4 @@
-# Hi 👋
+# Holla 👋
 
 Perkenalkan nama saya **Rikcy Lolo Padang**.\
 Saya seorang **Mahasiswa** jurusan **Teknik Informatika** di [Universitas Mikroskil](https://mikroskil.ac.id/).
